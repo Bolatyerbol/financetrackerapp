@@ -1,6 +1,7 @@
 # Finance tracker app
 
 Flutter project.
+![Снимок экрана 2023-12-06 174936](https://github.com/Bolatyerbol/financetrackerapp/assets/90841614/a47b685d-7962-4d6b-9c24-c667f6f3843c)
 
 ## Getting Started
 
